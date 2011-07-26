@@ -8,8 +8,8 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>{{page.title}}</title>
-	<meta name="description" content="{% if page.summary %}{{ page.summary }} (by Mathew Piccinato){% else %}Mathew Piccinato is a mobile web developer and lives in Michigan. Grab a beer with him sometime.{% endif %}">
+	<title>Page Not Found</title>
+	<meta name="description" content="Mathew Piccinato is a mobile web developer and lives in Michigan. Grab a beer with him sometime.">
 	<meta name="author" content="Mathew Piccinato">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,7 +26,7 @@
 <body>
 	<div id="container">
 		<header>
-            <{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %} class="site_title"><a href="/">Mathew Piccinato</a> <span style="color:#ccc;font-size:19px;"></span></{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %}>
+            <h2 class="site_title"><a href="/">Mathew Piccinato</a> <span style="color:#ccc;font-size:19px;"></span></h2>
             <nav> 
                 <ul>
                     <li> 
@@ -43,7 +43,10 @@
 		</header>
         
         <section>
-        {{content}}
+        <h2>Wrong turn.</h2>
+<p>The page you're trying to access does not exist.</p>
+<p>If you got here by mistake, try the <a href="http://mpiccinato.net/archives.html">archives</a> to find the page you're after.</p>
+<p>If you got here by clicking a link on this site that's incorrect, it would be super swell if you could <a href="http://mpiccinato.net/contact.html">send me a note</a> to let me know things are broken!</p>
         </section>
 
 		<footer>
