@@ -1,0 +1,5 @@
+permalink: /:title.html
+tag_dir: tag
+tag_title_prefix: "Tags &raquo; "
+related_tags: true
+baseurl: http://mpiccinato.net
