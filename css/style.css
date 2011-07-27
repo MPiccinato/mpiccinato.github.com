@@ -110,7 +110,7 @@ article section{color: #333;}
 .posts article h1{margin:0}
 
 .projects article h3{margin:0}
-.projects article img.screenshot{margin: 0.1em 0em; -moz-box-shadow: 1px 1px 2px #888;
+.projects article .screenshot{margin: 0.1em 0em; -moz-box-shadow: 1px 1px 2px #888;
     -webkit-box-shadow: 1px 1px 2px #888;
     box-shadow: 1px 1px 2px #888;}
 
