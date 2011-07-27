@@ -110,6 +110,7 @@ article h1{font-size:26px; line-height:26px;}
 article h1 a{color:#222; text-decoration:none;}
 article section{color: #333;}
 
+.projects article .title{padding-top: 26px}
 .projects article .screenshot img{margin: 5px 0px; -moz-box-shadow: 1px 1px 2px #888;
     -webkit-box-shadow: 1px 1px 2px #888;
     box-shadow: 1px 1px 2px #888;}
