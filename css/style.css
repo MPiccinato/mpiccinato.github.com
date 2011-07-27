@@ -85,18 +85,25 @@ body{font:13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif}
    ||                                              ||
     \\ ========================================== //
 */
-body{background-color: white; color: #222;}
+body{background-color: white; color: #222; font-family: 'helvetica neue',helvetica,arial,sans-serif;}
 
 h1, h2, h3, h4, h5{font-family: depot-new-condensed-1, sans-serif;}
 
+header{margin-bottom: 40px}
 
+.site_title{font-size: 60px; line-height:60px; margin-bottom: 0;}
+.site_title a{color: #444; text-decoration:none}
 
+nav{}
+nav li{display:inline-block; margin:0px; position:relative; width: 100px}
+nav li a{font-weight: bold; text-decoration:none;}
 
-
-
-
-
-
+.posts article{padding: 0px 0px 0px 140px}
+.posts article time{color: #999; float:left; font-size: 22px; font-weight: bold; line-height: 22px; margin-left: -140px; width: 120px; }
+.posts article time .year{font-weight: normal;}
+.posts article h1{font-size:26px; line-height:26px; margin: 0;}
+.posts article h1 a{color:#222; text-decoration:none;}
+.posts article section{color: #333;}
 
 
 
