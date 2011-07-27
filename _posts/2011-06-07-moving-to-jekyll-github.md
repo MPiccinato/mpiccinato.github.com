@@ -4,9 +4,10 @@ tags:
 - test
 - code
 title: Moving to Jekyll + GitHub
-summary: Changing blogging platforms can be quite a chore.
+summary: Was on Tumblr, now I am on GitHub
 ---
 
-Testing out some formatting right now.  This is just a test.  Entering in some filler text.
+Going from a fully managed blogging system, Tumblr, to one I have complete control over, Jekyll + GitHub, is a switch I had been wanting to make for a long time.  I am glad that is was not as hard as I imagined.
 
-Sweet.
+Jekyll is a simple static site generator and a breeze to work with. Read more about it here: <https://github.com/mojombo/jekyll/wiki>
+
