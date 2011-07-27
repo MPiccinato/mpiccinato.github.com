@@ -107,7 +107,7 @@ article h1{font-size:26px; line-height:26px;}
 article h1 a{color:#222; text-decoration:none;}
 article section{color: #333;}
 .posts article h1{margin:0}
-
+.projects article h3{margin:0}
 
 .ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
 .hidden { display: none; visibility: hidden; }
