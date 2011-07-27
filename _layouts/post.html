@@ -2,7 +2,7 @@
 layout: default
 ---
 <article>
-    <time datetime="{{post.date | date: "%Y-%m-%d"}}">{{post.date | date: "<span class='month-day'>%B %e</span> <span class='year'>%Y</span>"}}</time>
+    <time datetime="{{page.date | date: "%Y-%m-%d"}}">{{page.date | date: "<span class='month-day'>%B %e</span> <span class='year'>%Y</span>"}}</time>
 	<h1 class="post_title">{{page.title}}</h1>
 	{{content}}
     {% include next_action.md %}
