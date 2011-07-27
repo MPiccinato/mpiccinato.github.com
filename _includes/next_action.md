@@ -1,3 +1,3 @@
 <p class="next_actions">
-    <a href="http://twitter.com/mpiccinato">Follow me on the Twitter</a>.
+    <a href="http://twitter.com/mpiccinato">Seem more updates on twitter @MPiccinato</a>.
 </p>
