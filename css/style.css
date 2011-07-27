@@ -101,7 +101,7 @@ nav{}
 nav li{display:inline-block; margin:0px; position:relative; width: 100px}
 nav li a{font-weight: bold; text-decoration:none;}
 
-.page_title{font-size:26px; line-height:26px; padding: 1em 0em 0.2em 0em;}
+.title{font-size:26px; line-height:26px; margin-top: 40px; padding: 1em 0em 0.2em 0em;}
 
 article{margin-bottom: 30px; padding: 0px 0px 0px 0px;}
 article time{color: #999; float:left; font-size: 22px; font-weight: bold; line-height: 22px; margin-left: -140px; width: 120px; }
