@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /incompletethoughts/:title
-published: true
+permalink: /incompletethoughts/webservices
+published: false
 tags:
 - thoughts 
 title: Web Services To Keep Note Of
