@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /incompletethoughts/:title
+published: false
 tags:
 - thoughts 
 title: Web Services To Keep Note Of

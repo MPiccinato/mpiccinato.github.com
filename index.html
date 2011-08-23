@@ -3,13 +3,15 @@ layout: default
 title_element: h1
 ---
 <section class="posts">
-{% for post in site.posts limit:10 %}
-    <article>
-        <time datetime="{{post.date | date: "%Y-%m-%d"}}">{{post.date | date: "<span class='month-day'>%B %e</span> <span class='year'>%Y</span>"}}</time>
-        <h1 class="title"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h1>
-        <section class="summary">
-        {{post.summary}}
-        </section>
-    </article>
+{% for post in site.posts limit:20 %}
+    {% if post.published == 'true' %}
+        <article>
+            <time datetime="{{post.date | date: "%Y-%m-%d"}}">{{post.date | date: "<span class='month-day'>%B %e</span> <span class='year'>%Y</span>"}}</time>
+            <h1 class="title"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h1>
+            <section class="summary">
+            {{post.summary}}
+            </section>
+        </article>
+    {% endif %}
 {% endfor %}
 </section>
