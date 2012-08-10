@@ -34,12 +34,13 @@
     </head>
     <body>
         <div class="container">
-            <header>
-            <{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %} class="site_title">
+            <header class="row">
+            <{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %} class="site_title span11 offset1">
             <a href="/">Mathew Piccinato</a> 
             <span style="color:#ccc;font-size:19px;"></span>
             </{% if page.title_element %}{{ page.title_element }}{% else %}h2{% endif %}>
-                <nav> 
+            <!--
+                <nav class="span11 offset1"> 
                     <ul>
                         <li> 
                             <a href="/about">about me</a>
@@ -49,6 +50,7 @@
                         </li>
                     </ul>
                 </nav>
+            -->
             </header>
 
             {{content}}
