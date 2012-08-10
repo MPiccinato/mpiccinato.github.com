@@ -14,7 +14,7 @@ h2{margin: 32px 0px 5px 0px}
 h3{margin: 22px 0px 5px 0px}
 h4{margin: 14px 0px 5px 0px}
 
-header .site_title{font-size: 90px; line-height:90px; margin: 30px 0px 0px 0px;}
+header .site_title{font-size: 90px; line-height:90px; margin: 30px 0px 0px 0px; text-align:center}
 header .site_title a{color: #333; text-decoration:none;}
 
 nav{}
@@ -37,6 +37,6 @@ article section{color: #333;}
     box-shadow: 1px 1px 2px #888;}
 
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     header .site_title{font-size: 40px; line-height:40px; margin: 10px;}
 }
