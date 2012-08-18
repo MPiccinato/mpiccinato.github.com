@@ -9,12 +9,7 @@ body{background-color: white; color: #222; font-family: 'helvetica neue',helveti
 
 h1, h2, h3, h4, h5, article time{font-family: depot-new-condensed-1, sans-serif;}
 
-h1{margin: 44px 0px 5px 0px}
-h2{margin: 32px 0px 5px 0px}
-h3{margin: 22px 0px 5px 0px}
-h4{margin: 14px 0px 5px 0px}
-
-header .site_title{font-size: 90px; line-height:90px; margin: 30px 0px 0px 0px;}
+header .site_title{font-size: 90px; line-height:90px; padding-top:30px}
 header .site_title a{color: #333; text-decoration:none;}
 
 nav{}
