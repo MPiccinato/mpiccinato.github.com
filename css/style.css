@@ -5,9 +5,7 @@
    ||                                              ||
     \\ ========================================== //
 */
-body{background-color: white; color: #222; font-family: 'Cabin Condensed', sans-serif; font-size:14px}
-
-h1, h2, h3, h4, h5, article time{font-family: 'Cabin Condensed', sans-serif;}
+body{background-color: white; color: #222; font-family: 'Open Sans Condensed', sans-serif; font-size:14px}
 
 header .site_title{font-size: 90px; line-height:90px; padding-top:30px}
 header .site_title a{color: #333; text-decoration:none;}
