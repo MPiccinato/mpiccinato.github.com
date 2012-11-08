@@ -2,13 +2,15 @@
 layout: post
 published: true
 tags:
-- code
-title: New Blog
-summary: New habits.
+title: Writing
+summary: Writing
 ---
 
-This site has be redesigned more times than posts written. Getting in the habit of writing has always been hard for me. I write plenty of things down from the ideas of things to write about to just ideas for new apps. These are always single sentences or a collection of bullet points describing the idea.  Those ideas or thoughts then just keep to themselves.
+This site has be redesigned more times than posts written. Getting in the habit of writing has always been hard for me. I collect plenty of things to write about, from stories to blog posts, but they always only get as far as a few bullet points.
 
-I am mostly scared of voicing my opinion on things I am unsure of, something I might think I have thought all the way through on but might have missed something.  I am also just scared of writing, it is something I haven't never been all that great at.
+So what keeps me from writting? I constantly tell myself I am not good at it so don't bother. And more importantly, I don't put forth the effort to make myself any bettr at it.
 
-However, I am ready to try and change that.
+But why do I do this? Am I really that bad? I don't want to be. But then where is my effort? Lost in all the other things I feel I have to get done in the day? Of course it is since I constantly do not make it a priority.
+
+
+
