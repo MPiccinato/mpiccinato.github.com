@@ -26,14 +26,9 @@ article{margin-bottom: 30px; padding: 0px 0px 0px 0px;}
 article time{color: #999; float:left; font-size: 25px; font-weight: bold; line-height: 25px; margin-left: -140px; width: 120px; }
 article time .month-day{display:block}
 article time .year{font-weight: normal;}
-article h1{font-size:28px; line-height:28px;}
-article h1 a{color:#222; text-decoration:none;}
+article h2{font-size:28px; line-height:28px;}
+article h2 a{color:#222; text-decoration:none;}
 article section{color: #333;}
-
-.projects article h3{padding-top: 26px}
-.projects article .screenshot img{margin: 5px 0px; -moz-box-shadow: 1px 1px 2px #888;
-    -webkit-box-shadow: 1px 1px 2px #888;
-    box-shadow: 1px 1px 2px #888;}
 
 /*
     // ========================================== \\
