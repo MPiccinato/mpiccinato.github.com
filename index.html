@@ -3,10 +3,10 @@ layout: default
 title_element: h1
 ---
 <section class="posts row">
-{% for post in site.posts limit:20 %}
+{% for post in site.posts limit:5 %}
     {% if post.published == true %}
-        <article class="span11 offset1">
-            <h1 class="title"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h1>
+        <article class="span8 offset1">
+            <h2 class="title"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
             <section class="summary">
             {{post.content}}
             </section>

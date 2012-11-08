@@ -1,10 +1,9 @@
 ---
-layout: post 
+layout: default
 ---
 <section class="row post">
-    <article class="span11 offset1">
-        <time datetime="{{page.date | date: "%Y-%m-%d"}}">{{page.date | date: "<span class='month-day'>%B %e</span> <span class='year'>%Y</span>"}}</time>
-        <h1 class="title">{{page.title}}</h1>
+    <article class="span8 offset1">
+        <h2 class="title">{{page.title}}</h2>
         {{content}}
         {% include next_action.md %}
     </article>
