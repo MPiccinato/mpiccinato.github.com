@@ -22,8 +22,6 @@ p{line-height:22px}
 
 .posts, .post{margin-top:100px}
 
-.title{font-size:28px; line-height:28px; margin: 0px 0px 5px 0px;}
-
 article{margin-bottom: 30px; padding: 0px 0px 0px 0px;}
 article time{color: #999; float:left; font-size: 25px; font-weight: bold; line-height: 25px; margin-left: -140px; width: 120px; }
 article time .month-day{display:block}
