@@ -18,6 +18,8 @@ nav ul{margin-left:0px}
 nav li{display:inline-block; margin:0px; position:relative; width: 100px}
 nav li a{font-weight: bold; text-decoration:none;}
 
+p{line-height:22px}
+
 .posts, .post{margin-top:100px}
 
 .title{font-size:28px; line-height:28px; margin: 0px 0px 5px 0px;}
@@ -29,6 +31,7 @@ article time .year{font-weight: normal;}
 article h2{font-size:28px; line-height:28px;}
 article h2 a{color:#222; text-decoration:none;}
 article section{color: #333;}
+
 
 /*
     // ========================================== \\
